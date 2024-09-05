@@ -11,12 +11,12 @@
   "author": "Wes Bos",
   "license": "ISC",
   "dependencies": {
-    "babel-plugin-styled-components": "^1.9.2",
-    "next": "latest",
+    "babel-plugin-styled-components": "^2.1.1",
+    "next": "10.0.6",
     "react": "16.7.0-alpha.0 - next",
     "react-dom": "16.7.0-alpha.0 - next",
-    "socket.io-client": "^2.1.1",
-    "styled-components": "^4.1.1"
+    "socket.io-client": "^4.0.0",
+    "styled-components": "^6.0.0"
   },
   "babel": {
     "presets": [
